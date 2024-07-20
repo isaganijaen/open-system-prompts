@@ -15,6 +15,7 @@ To use these custom system prompts, simply copy and paste the prompt into your A
 Our initial collection includes prompts for:
 
 - [x] Python and Machine Learning (Code Block)
+- [ ] AI Persona v 2.0 (coming soon)
 - [ ] Thought Analyzer (coming soon) 
 
 ## **Contributing to Open System Prompts**
