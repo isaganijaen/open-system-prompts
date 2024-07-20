@@ -1,9 +1,3 @@
----
-aliases:
-  - Open-System-Prompts
-  - Open System Prompts
-  - ReadMe
----
 # **Open System Prompts**
 
 Welcome to Open System Prompts, a curated collection of custom system prompts designed to cater to specific groups of people, users, or niches. Our mission is to provide tailored prompts that help AI tools deliver targeted, relevant, and practical solutions for various domains and industries.
